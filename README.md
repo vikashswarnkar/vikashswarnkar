@@ -3,9 +3,7 @@
 <h3 align="center">A passionate DevOps Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikash&label=Profile%20views&color=0e75b6&style=flat" alt="asishkashyap" /> </p>
-
-<p align="left"> <a href="https://twitter.com/erashish92" target="blank"><img src="https://img.shields.io/twitter/follow/erashish92?logo=twitter&style=for-the-badge" alt="erashish92" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikash&label=Profile%20views&color=0e75b6&style=flat" alt="vikamgta" /> </p>
 
 - 🌱 I’m currently learning **DevSecOps, Azure Cloud**
 
@@ -13,14 +11,12 @@
 
 - 📫 How to reach me **vikamta@hotmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vJLk-BikfuMl_NMuIHjIL_AfcU6FyOT1/view?usp=sharing](https://drive.google.com/file/d/1vJLk-BikfuMl_NMuIHjIL_AfcU6FyOT1/view?usp=sharing)
-
 - ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/erashish92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="erashish92" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/asish-kashyap-23631115" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asish-kashyap-23631115" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/vikash-kumar-devops/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikash-kumar-devops" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,4 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikamgta&show_icons=true&locale=en" alt="vikamgta" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikamgta&" alt="vikamgta" /></p>
-
